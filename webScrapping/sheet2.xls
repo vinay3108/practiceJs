@@ -1,0 +1,312 @@
+1 	 What does the CP Sheet primarily focus on ? 
+2 	 How have the problems been selected ? 
+4 	 What apart from the CP list do we need to do?
+3 	 How many problems do you need to do in order to get concepts required for coding rounds ? 
+5 	 Before starting off CP, make sure you know one language, which means you how to take an input, print something, run for loops, snd STL/Collection for the language you are using, these things are more than enough to start, just don’t think you need everything in place to start, so just start. 
+8 	 https://codeforces.com/problemset/problem/282/A
+10 	 https://codeforces.com/problemset/problem/263/A
+7 	 Next I will be giving you the algorithms name you need to know and 5-10 problems on each of them. These problems will help you to understand the concept of the algorithm, and will help you to understand how we can tweak the algorithms to solve given problems. Even after this you don’t feel comfortable with the Algorithm, my suggestion will be to google some more problems and solve. To reach an expert level at Codeforces, you just need to solve A, B and C problems at quick succession and on a constant basis. There are very few chances that you will be encountering an algorithmic problem on Codeforces unless and until its the D level problem or beyond. So you need to do as many algorithmic problems as you can, which will help you during your coding rounds. 
+11 	 https://codeforces.com/problemset/problem/151/A
+9 	 https://codeforces.com/contest/514/problem/A
+6 	 At first make sure your constructive algorithms are good, which means you can solve simple story line problems. For that my suggestion will be to do A2OJ ladder(alternative: https://a2oj.herokuapp.com/), 50 A problems and 50 B level problems to start off with. 
+12 	 https://codeforces.com/problemset/problem/723/A
+13 	 https://codeforces.com/problemset/problem/1352/A
+16 	 https://codeforces.com/problemset/problem/144/A
+15 	 https://codeforces.com/problemset/problem/785/A
+17 	 https://codeforces.com/problemset/problem/1030/A
+18 	 https://codeforces.com/problemset/problem/136/A
+20 	 https://codeforces.com/problemset/problem/116/A
+14 	 https://codeforces.com/problemset/problem/510/A
+22 	 https://codeforces.com/problemset/problem/546/A
+19 	 https://codeforces.com/problemset/problem/110/A
+21 	 https://codeforces.com/problemset/problem/977/A
+24 	 https://codeforces.com/problemset/problem/236/A
+23 	 https://codeforces.com/problemset/problem/791/A
+26 	 https://codeforces.com/problemset/problem/339/A
+25 	 https://codeforces.com/problemset/problem/281/A
+27 	 https://codeforces.com/problemset/problem/1368/A
+29 	 https://codeforces.com/problemset/problem/1097/A
+28 	 https://codeforces.com/problemset/problem/702/A
+30 	 https://codeforces.com/problemset/problem/492/A
+31 	 https://codeforces.com/problemset/problem/1433/A
+33 	 https://codeforces.com/problemset/problem/1095/A
+34 	 https://codeforces.com/problemset/problem/1391/B
+32 	 https://codeforces.com/problemset/problem/1303/A
+35 	 https://codeforces.com/problemset/problem/118/A
+36 	 https://codeforces.com/problemset/problem/1300/B
+39 	 https://codeforces.com/problemset/problem/219/A
+37 	 https://codeforces.com/problemset/problem/1430/C
+40 	 https://codeforces.com/problemset/problem/1141/A
+38 	 https://codeforces.com/contest/139/problem/A
+41 	 https://codeforces.com/problemset/problem/118/B
+42 	 https://codeforces.com/problemset/problem/1373/A
+45 	 https://codeforces.com/problemset/problem/500/A
+44 	 https://codeforces.com/problemset/problem/476/A
+47 	 https://codeforces.com/problemset/problem/1139/B
+48 	 https://codeforces.com/problemset/problem/1199/A
+49 	 https://codeforces.com/problemset/problem/1073/A
+46 	 https://codeforces.com/problemset/problem/131/A
+43 	 https://codeforces.com/problemset/problem/268/B
+51 	 https://codeforces.com/problemset/problem/1244/B
+50 	 https://codeforces.com/problemset/problem/109/A
+52 	 https://codeforces.com/problemset/problem/1027/A
+53 	 https://codeforces.com/problemset/problem/1278/A
+56 	 https://codeforces.com/problemset/problem/1237/A
+54 	 https://codeforces.com/problemset/problem/1133/A
+57 	 https://codeforces.com/problemset/problem/486/B
+58 	 https://codeforces.com/problemset/problem/1337/A
+59 	 https://codeforces.com/problemset/problem/1389/A
+61 	 https://codeforces.com/problemset/problem/1426/A
+55 	 https://codeforces.com/problemset/problem/507/A
+63 	 https://codeforces.com/problemset/problem/1385/A
+60 	 https://codeforces.com/problemset/problem/959/A
+64 	 https://codeforces.com/problemset/problem/1358/A
+66 	 https://codeforces.com/problemset/problem/1353/A
+62 	 https://codeforces.com/problemset/problem/1296/A
+68 	 https://codeforces.com/problemset/problem/1360/A
+67 	 https://codeforces.com/problemset/problem/1371/A
+70 	 https://codeforces.com/problemset/problem/1374/A
+65 	 https://codeforces.com/problemset/problem/1294/A
+71 	 https://codeforces.com/problemset/problem/1343/B
+72 	 https://codeforces.com/problemset/problem/732/A
+69 	 https://codeforces.com/problemset/problem/1367/B
+75 	 https://codeforces.com/problemset/problem/1335/A
+74 	 https://codeforces.com/problemset/problem/1409/A
+73 	 https://codeforces.com/problemset/problem/1154/A
+77 	 https://codeforces.com/problemset/problem/617/A
+76 	 https://codeforces.com/problemset/problem/1328/A
+79 	 https://codeforces.com/problemset/problem/1117/B
+78 	 https://codeforces.com/problemset/problem/50/A
+80 	 https://codeforces.com/problemset/problem/1195/A
+81 	 https://codeforces.com/problemset/problem/1181/A
+84 	 https://codeforces.com/problemset/problem/1260/A
+83 	 https://codeforces.com/problemset/problem/1107/B
+85 	 https://codeforces.com/problemset/problem/1266/A
+82 	 https://codeforces.com/problemset/problem/1266/B
+86 	 https://codeforces.com/problemset/problem/1620/B
+88 	 https://codeforces.com/problemset/problem/69/A
+87 	 https://codeforces.com/problemset/problem/610/A
+90 	 https://codeforces.com/problemset/problem/1199/B
+91 	 https://codeforces.com/problemset/problem/1257/B
+89 	 https://codeforces.com/problemset/problem/1/A
+92 	 https://codeforces.com/problemset/problem/1204/A
+94 	 https://codeforces.com/problemset/problem/1395/A
+95 	 https://codeforces.com/problemset/problem/688/B
+93 	 https://codeforces.com/problemset/problem/515/A
+96 	 https://codeforces.com/problemset/problem/1473/B
+98 	 https://codeforces.com/problemset/problem/1359/A
+97 	 https://codeforces.com/problemset/problem/1476/A
+100 	 https://codeforces.com/problemset/problem/1463/A
+101 	 https://codeforces.com/problemset/problem/463/B
+102 	 https://codeforces.com/problemset/problem/1511/B
+103 	 https://codeforces.com/problemset/problem/630/C
+104 	 https://codeforces.com/problemset/problem/1189/B
+105 	 https://codeforces.com/problemset/problem/1038/B
+107 	 https://codeforces.com/problemset/problem/1355/A
+99 	 https://codeforces.com/problemset/problem/1342/A
+106 	 https://codeforces.com/problemset/problem/630/D
+108 	 https://codeforces.com/contest/371/problem/C
+109 	 https://codeforces.com/contest/670/problem/D1 
+111 	 https://codeforces.com/problemset/problem/1613/C 
+112 	 https://codeforces.com/contest/689 /problem/C 
+110 	 https://codeforces.com/contest/287/problem/B
+113 	 https://codeforces.com/contest/1169/problem/C 
+116 	 https://codeforces.com/contest/1132/problem/D 
+114 	 https://codeforces.com/contest/1073/problem/C 
+118 	 https://codeforces.com/contest/1288/problem/D 
+115 	 https://codeforces.com/contest/448/problem/D 
+120 	 https://www.spoj.com/problems/PRIME1/cstart=10 
+119 	 https://codeforces.com/contest/1370/problem/D
+117 	 https://codeforces.com/contest/954/problem/E 
+121 	 https://www.spoj.com/problems/TDPRIMES/ 
+123 	 https://codeforces.com/contest/264/problem/B 
+125 	 https://codeforces.com/contest/546/problem/D 
+122 	 https://www.spoj.com/problems/TDKPRIME/ 
+124 	 https://codeforces.com/contest/735/problem/D
+127 	 https://codeforces.com/problemset/problem/111/B 
+129 	 https://codeforces.com/contest/1101/problem/D (graph + sieve)
+128 	 https://codeforces.com/contest/1228/problem/C 
+130 	 https://codeforces.com/problemset/problem/912/B 
+131 	 https://codeforces.com/problemset/problem/1594/B 
+132 	 https://codeforces.com/problemset/problem/1097/B 
+126 	 https://codeforces.com/contest/222/problem/C
+133 	 https://codeforces.com/contest/1602/problem/C 
+135 	 https://codeforces.com/problemset/problem/1494/B 
+137 	 https://codeforces.com/problemset/problem/1225/C 
+136 	 https://codeforces.com/problemset/problem/1151/B 
+134 	 https://codeforces.com/problemset/problem/1095/C 
+139 	 https://codeforces.com/problemset/problem/1391/D 
+140 	 https://codeforces.com/problemset/problem/1491/D 
+142 	 https://codeforces.com/contest/158/problem/C 
+138 	 https://codeforces.com/contest/1174/problem/D 
+145 	 https://codeforces.com/contest/1092/problem/D1 
+143 	 https://codeforces.com/contest/5/problem/C 
+146 	 https://codeforces.com/contest/1313/problem/C2
+141 	 https://codeforces.com/contest/343/problem/B 
+147 	 https://codeforces.com/contest/1515/problem/C (priority queue)
+144 	 https://codeforces.com/contest/359/problem/D 
+148 	 https://codeforces.com/contest/319/problem/B
+150 	 https://codeforces.com/contest/1092/problem/D2 
+152 	 https://codeforces.com/contest/911/problem/E 
+151 	 https://codeforces.com/contest/1156/problem/E 
+153 	 https://codeforces.com/contest/507/problem/E?locale=en (priority queue)
+154 	 https://codeforces.com/problemset/problem/271/D
+156 	 https://codeforces.com/contest/514/problem/C
+149 	 https://codeforces.com/contest/487/problem/B 
+158 	 https://codeforces.com/contest/514/problem/C
+155 	 https://codeforces.com/contest/1326/problem/D2
+159 	 https://codeforces.com/contest/633/problem/C
+160 	 https://codeforces.com/contest/1016/problem/B
+161 	 https://codeforces.com/contest/471/problem/D
+157 	 https://codeforces.com/contest/7/problem/D
+163 	 https://codeforces.com/contest/346/problem/B
+162 	 https://codeforces.com/problemset/problem/126/B
+166 	 https://codeforces.com/contest/432/problem/D 
+165 	 https://codeforces.com/contest/126/problem/B 
+168 	 https://www.spoj.com/problems/NUMOFPAL/
+167 	 https://codeforces.com/contest/1537/problem/E2
+170 	 https://www.spoj.com/problems/MSUBSTR/
+169 	 https://www.spoj.com/problems/LPS/
+164 	 https://codeforces.com/contest/1138/problem/D
+172 	 https://codeforces.com/contest/1080/problem/E 
+173 	 https://codeforces.com/problemset/problem/1006/F
+175 	 https://cses.fi/problemset/task/1130 
+176 	 https://codeforces.com/gym/102694/problem/A  (depth)
+177 	 https://codeforces.com/gym/102694/problem/B (diameter)
+171 	 https://www.spoj.com/problems/EPALIN/
+174 	 https://cses.fi/problemset/task/1674 
+178 	 https://codeforces.com/contest/1006/problem/E  (just tin tout concept)
+181 	 https://codeforces.com/gym/102694/problem/C
+180 	 https://codeforces.com/contest/1294/problem/F 
+184 	 https://codeforces.com/contest/1304/problem/E
+182 	 https://codeforces.com/gym/102694/problem/D
+183 	 https://codeforces.com/contest/1328/problem/E
+186 	 https://codeforces.com/contest/191/problem/C
+187 	 https://codeforces.com/contest/519/problem/E 
+179 	 https://cses.fi/problemset/task/1133
+185 	 https://codeforces.com/contest/208/problem/E
+188 	 https://codeforces.com/contest/587/problem/C
+191 	 https://codeforces.com/gym/102694/problem/E
+190 	 https://codeforces.com/contest/466/problem/E
+193 	 https://codeforces.com/problemset/problem/520/B
+192 	 https://codeforces.com/gym/102694/problem/F
+189 	 https://codeforces.com/contest/609/problem/E
+195 	 https://codeforces.com/problemset/problem/580/C
+196 	 https://codeforces.com/problemset/problem/977/E
+197 	 https://codeforces.com/contest/1144/problem/F (simple dfs)
+194 	 https://codeforces.com/problemset/problem/115/A
+198 	 https://codeforces.com/contest/510/problem/C (topo sort)
+200 	 https://codeforces.com/problemset/problem/475/B (SCC)
+199 	 https://codeforces.com/contest/20/problem/C (dijsktra)
+201 	 https://codeforces.com/contest/986/problem/A (djstra)
+203 	 https://codeforces.com/contest/1345/problem/D (flood fill) 
+202 	 https://codeforces.com/contest/242/problem/C (bfs)
+205 	 https://codeforces.com/contest/1385/problem/E (topo sort)
+206 	 https://codeforces.com/contest/295/problem/B (floyd warshal)
+204 	 https://codeforces.com/contest/229/problem/B (dijsktra)
+209 	 https://codeforces.com/contest/1296/problem/E1 (biparthite)
+210 	 https://codeforces.com/contest/1573/problem/C (topo sort)
+207 	 https://codeforces.com/contest/1213/problem/F (SCC)
+208 	 https://codeforces.com/contest/1343/problem/E (djstra)
+212 	 https://codeforces.com/contest/229/problem/B (djstra)
+214 	 https://codeforces.com/contest/178/problem/B3 (bridges)
+211 	 https://codeforces.com/contest/1547/problem/G 
+213 	 https://codeforces.com/contest/400/problem/D (flyod warshal)
+216 	 https://codeforces.com/contest/1117/problem/D
+215 	 https://codeforces.com/problemset/problem/185/A
+219 	 https://codeforces.com/contest/621/problem/E
+220 	 https://codeforces.com/contest/1182/problem/E
+217 	 https://codeforces.com/contest/582/problem/B
+218 	 https://codeforces.com/contest/222/problem/E
+221 	 https://codeforces.com/contest/706/problem/D
+224 	 https://codeforces.com/contest/1285/problem/D
+223 	 https://codeforces.com/contest/665/problem/E
+225 	 https://codeforces.com/contest/858/problem/D
+226 	 https://codeforces.com/contest/455/problem/B
+227 	 https://codeforces.com/contest/113/problem/B
+222 	 https://codeforces.com/contest/948/problem/D
+229 	 https://codeforces.com/problemset/problem/702/A 
+231 	 https://codeforces.com/problemset/problem/1501/B 
+230 	 https://codeforces.com/problemset/problem/894/A 
+232 	 https://codeforces.com/problemset/problem/1469/B 
+234 	 https://codeforces.com/problemset/problem/313/B 
+233 	 https://codeforces.com/problemset/problem/363/B
+235 	 https://codeforces.com/problemset/problem/327/A 
+236 	 https://codeforces.com/problemset/problem/961/B
+228 	 https://codeforces.com/contest/282/problem/E
+237 	 https://codeforces.com/problemset/problem/522/A
+238 	 https://codeforces.com/problemset/problem/1042/B
+240 	 https://codeforces.com/problemset/problem/1420/C1
+242 	 https://codeforces.com/problemset/problem/1195/C
+241 	 https://codeforces.com/problemset/problem/414/B 
+243 	 https://codeforces.com/problemset/problem/1350/B 
+239 	 https://codeforces.com/problemset/problem/189/A
+245 	 https://codeforces.com/contest/577/problem/B
+246 	 https://codeforces.com/contest/204/problem/A 
+248 	 https://codeforces.com/contest/479/problem/E
+247 	 https://codeforces.com/contest/448/problem/C
+250 	 https://codeforces.com/contest/777/problem/E 
+249 	 https://codeforces.com/contest/401/problem/D
+251 	 https://codeforces.com/contest/1036/problem/C
+252 	 https://codeforces.com/contest/219/problem/D
+244 	 https://codeforces.com/contest/505/problem/C
+255 	 https://codeforces.com/contest/687/problem/C
+254 	 https://codeforces.com/contest/165/problem/E
+256 	 https://codeforces.com/contest/1132/problem/F
+257 	 https://codeforces.com/contest/1253/problem/E
+259 	 https://codeforces.com/contest/461/problem/B
+258 	 https://codeforces.com/contest/1216/problem/F
+260 	 https://codeforces.com/contest/319/problem/C
+261 	 https://codeforces.com/contest/1083/problem/E
+253 	 https://codeforces.com/contest/337/problem/D
+264 	 https://codeforces.com/problemset/problem/1534/C 
+262 	 https://codeforces.com/contest/507/problem/D
+265 	 https://codeforces.com/problemset/problem/217/A 
+266 	 https://codeforces.com/contest/277/problem/A
+268 	 https://codeforces.com/contest/1332/problem/C
+263 	 https://codeforces.com/contest/540/problem/D
+270 	 https://codeforces.com/contest/1156/problem/D
+269 	 https://codeforces.com/contest/455/problem/C
+271 	 https://codeforces.com/contest/1213/problem/G
+267 	 https://codeforces.com/contest/884/problem/C
+272 	 https://codeforces.com/problemset/problem/1494/D 
+275 	 https://codeforces.com/contest/617/problem/E
+274 	 https://codeforces.com/contest/86/problem/D
+273 	 https://codeforces.com/problemset/problem/455/C 
+278 	 https://codeforces.com/contest/375/problem/D
+277 	 https://codeforces.com/contest/1514/problem/D
+279 	 https://codeforces.com/contest/242/problem/E 
+281 	 https://codeforces.com/contest/1311/problem/F
+280 	 https://codeforces.com/contest/61/problem/E
+276 	 https://codeforces.com/contest/220/problem/B
+284 	 https://codeforces.com/contest/340/problem/D
+285 	 https://codeforces.com/contest/1076/problem/E
+283 	 https://codeforces.com/contest/459/problem/D
+286 	 https://codeforces.com/contest/1354/problem/D
+287 	 https://codeforces.com/contest/1405/problem/E
+289 	 https://codeforces.com/contest/1526/problem/D
+282 	 https://codeforces.com/contest/283/problem/A
+290 	 https://codeforces.com/contest/276/problem/E
+291 	 https://codeforces.com/contest/375/problem/D
+292 	 https://codeforces.com/contest/339/problem/D
+293 	 https://codeforces.com/contest/914/problem/D
+288 	 https://codeforces.com/contest/383/problem/C
+295 	 https://codeforces.com/contest/61/problem/E
+296 	 https://codeforces.com/contest/380/problem/C
+298 	 https://codeforces.com/contest/1237/problem/D
+299 	 https://codeforces.com/contest/292/problem/E
+294 	 https://codeforces.com/contest/459/problem/D
+300 	 https://codeforces.com/contest/482/problem/B
+301 	 https://codeforces.com/contest/1187/problem/D
+304 	 https://codeforces.com/contest/438/problem/D?locale=en
+302 	 https://codeforces.com/contest/920/problem/F
+303 	 https://codeforces.com/contest/1535/problem/D?locale=en
+306 	 https://codeforces.com/contest/1567/problem/E
+305 	 https://codeforces.com/contest/1556/problem/E
+297 	 https://codeforces.com/contest/474/problem/F
+308 	 https://codeforces.com/contest/1023/problem/D
+310 	 https://codeforces.com/contest/1557/problem/D
+311 	 https://codeforces.com/contest/145/problem/E
+309 	 https://codeforces.com/contest/242/problem/E
+312 	 https://codeforces.com/contest/777/problem/E
+307 	 https://codeforces.com/contest/52/problem/C

@@ -13,7 +13,7 @@ const Filter = ({popular,setFiltered,activeGenre,setActiveGenre}) => {
     },[activeGenre])
   return (
       <>
-      
+        
         <button onClick={()=>setActiveGenre(0)}>ALL</button>
         <button onClick={()=>setActiveGenre(53)}>comedy</button>
         <button onClick={()=>setActiveGenre(16)}>Action</button>
