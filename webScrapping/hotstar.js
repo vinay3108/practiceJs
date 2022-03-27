@@ -13,31 +13,41 @@ function cb(error,response,html){
         console.log(error);
     }
     else{
-        handleHtml(html);
+        // handleHtml(html);
+        // console.log(html);
+        fs.appendFile('test.html',html,(err)=>{
+            if(err)
+            {
+                console.log(err);
+            }
+        })
     }
 }
 
 function handleHtml(html)
 {
     const $=cheerio.load(html);
-    const imgArr=$('card card-img-container');
-    if(imgArr.length==0)
-    {
-        console.log('no output');
-    }else{
+    // const imgArr=$('').attr('src');
+    const imgArr=$('.ripple.movie-card.vertical .thumbnail-container .card.card-img-container img').map(function(){ return $(this).attr('src'); });
+    console.log(imgArr.length);
+    console.log("after");
+    // if(imgArr.length==0)
+    // {
+    //     console.log('no output');
+    // }else{
 
-        for(let item of imgArr)
-        {
-            const updateData=item+'\n';
-            fs.appendFile('cvdata2.txt',updateData,(err)=>{
-                if(err)
-                {
-                    console.log(err);
-                }
-            });
-        }
-        console.log('saved');
-    }
+    //     for(let item of imgArr)
+    //     {
+    //         const updateData=item+'\n';
+    //         fs.appendFile('cvdata2.txt',updateData,(err)=>{
+    //             if(err)
+    //             {
+    //                 console.log(err);
+    //             }
+    //         });
+    //     }
+    //     console.log('saved');
+    // }
 }
 
 
